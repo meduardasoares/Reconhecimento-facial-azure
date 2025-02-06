@@ -54,6 +54,8 @@ Inclui a verificação do uso de máscara facial.
 1. Instale as dependências necessárias:  
    ```sh
    pip install requests
+2. Envie uma imagem para análise utilizando uma requisição HTTP
+
 ##👨‍💻 Desenvolvido por Maria Eduarda Soares Machado
 
 
